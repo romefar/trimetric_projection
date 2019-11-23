@@ -1,0 +1,26 @@
+{
+  "name": "trimetric_projection",
+  "version": "1.0.0",
+  "description": "trimetric projection of a rectangular prism.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/romefar/trimetric_projection.git"
+  },
+  "keywords": [
+    "prism",
+    "rectangular",
+    "prism",
+    "rotation",
+    "three.js"
+  ],
+  "author": "romefar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/romefar/trimetric_projection/issues"
+  },
+  "homepage": "https://github.com/romefar/trimetric_projection#readme"
+}
